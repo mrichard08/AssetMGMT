@@ -1,0 +1,12 @@
+name: Assetmgmt
+title: Assetmgmt
+username:
+account: mrichard08
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2933112
+bundleId: 3695530
+url: https://mrichard08.shinyapps.io/Assetmgmt/
+when: 1601648784.99347
+asMultiple: FALSE
+asStatic: FALSE
